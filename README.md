@@ -39,7 +39,10 @@ Grounded in observations from the shopkeeper, a regular customer, and a contract
 See `1.png`–`6.png` in this repo for interface screenshots covering the main flow, an estimate result, and a fallback case.
 
 ## Live Link
-'https://abubakar-aleem.github.io/Instant-Job-Estimate-innoViast/'
+https://abubakar-aleem.github.io/Instant-Job-Estimate-innoViast/
+
+## Demo Video
+See `demo-video.mp4` in this repo for a walkthrough of a normal estimate and a fallback case.
 
 ## Evaluation
 10+ test cases covering clear requests, Roman Urdu input, vague input, multi-job input, and out-of-scope requests — including one failure found and fixed during testing. Full results in [`evaluation.md`](./evaluation.md).
